@@ -1,4 +1,4 @@
-from src.modes import regular, mobile, generate, jacklinks, burgerking
+from src.modes import regular, mobile, generate
 from src.utils import findProduct, findAlbum, discord, loadTasks, cliLogger, checkoutAlert
 
 import requests
