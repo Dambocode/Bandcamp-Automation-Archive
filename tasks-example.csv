@@ -1,0 +1,2 @@
+band_id,keywords,mode,email,password,name,address_1,address_2,zip_code,city,state,country,card_num,card_exp_month,card_exp_year,card_cvv,proxy,retry_delay
+3910613538,"picture,disc|liz",mobile,email@gmail.com,Password123,John Doe,1 Main St,,12345,Brooklyn,NY,US,4444444444444444,12,2024,123,IP:PORT:USER:PASS,500
